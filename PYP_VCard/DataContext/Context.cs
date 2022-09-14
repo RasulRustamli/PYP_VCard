@@ -19,5 +19,6 @@ namespace PYP_VCard.DataContext
 
         public DbSet<VCard> VCards { get; set; }
 
+      
     }
 }
